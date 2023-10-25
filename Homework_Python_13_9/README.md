@@ -4,7 +4,7 @@
 
 [1. Цель работы](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Цель-работы)
 
-[2. Краткая информация о данных](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Краткая-информация)
+[2. Краткая информация о данных](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Краткая-информация-о-данных)
 
 [3. Этапы выполнения работы](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Этапы-выполнения-работы)
 
