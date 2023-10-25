@@ -4,7 +4,7 @@
 
 [1. Цель работы](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Цель-работы)
 
-[2. Краткая информация](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Краткая-информация)
+[2. Краткая информация о данных](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Краткая-информация)
 
 [3. Этапы выполнения работы](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Этапы-выполнения-работы)
 
@@ -14,7 +14,7 @@
 
 Цель работы - для разработки кампании лояльности по удержанию клиентов необходимо установить, чем ушедшие клиенты отличаются от лояльных и как связаны между собой различные признаки клиентов.
 
-:arrow_up[К оглавлению](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Оглавление)
+:arrow_up:[К оглавлению](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Оглавление)
 
 ## Краткая информация о данных
 
@@ -34,7 +34,7 @@
 - *EstimatedSalary* — предполагаемая заработная плата клиента
 - *Exited* — статус лояльности (1 — ушедший клиент, 0 — лояльный клиент)
 
-:arrow_up[К оглавлению](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Оглавление)
+:arrow_up:[К оглавлению](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Оглавление)
 
 ## Этапы выполнения работы
 
@@ -51,12 +51,12 @@
 - В какой стране доля ушедших клиентов больше? Построить тепловую картограмму, которая покажет это соотношение на карте мира. Предположить, с чем это может быть связано.
 - Перевести числовой признак `CreditScore` в категориальный, создать новый признак `CreditScoreCat` — категории кредитного рейтинга. Построть сводную таблицу, строками которой являются категории кредитного рейтинга (`CreditScoreCat`), а столбцами — количество лет, в течение которых клиент пользуется услугами банка (`Tenure`). В ячейках сводной таблицы должно находиться среднее по признаку оттока (`Exited`) — доля ушедших пользователей. На основе полученной сводной таблицы построить тепловую карту с аннотацией. Найдите на тепловой карте категории клиентов, которые уходят чаще всего.
 
-:arrow_up[К оглавлению](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Оглавление)
+:arrow_up:[К оглавлению](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Оглавление)
 
 ## Выводы
 
 В ходе выполнения работы получили ответы на все поставленные вопросы, а тайже применили навыки визуализации данных, полученных в ходе изучения терии урока.
 
-:arrow_up[К оглавлению](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Оглавление)
+:arrow_up:[К оглавлению](https://github.com/an-petruhin/Homeworks/tree/main/Homework_Python_13_9#Оглавление)
 
-:arrow_up[Назад к работам](https://github.com/an-petruhin/Homeworks#Homeworks)
+:arrow_up:[Назад к работам](https://github.com/an-petruhin/Homeworks#Homeworks)
