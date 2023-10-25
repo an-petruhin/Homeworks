@@ -1,20 +1,20 @@
-# Домашняя работа. Практика. Статистические тесты в контексте EDA
+# Статистические тесты в контексте EDA
 
 ## Оглавление
 
-[1. Цель работы](https://github.com/an-petruhin/Homeworks/tree/master/EDA_4#Цель-работы)
+[1. Цель работы](https://github.com/an-petruhin/Homeworks/tree/main/Homework_EDA_4#Цель-работы)
 
-[2. Краткая информация о данных](https://github.com/an-petruhin/Homeworks/tree/master/EDA_4#Краткая-информация-о-данных)
+[2. Краткая информация о данных](https://github.com/an-petruhin/Homeworks/tree/main/Homework_EDA_4#Краткая-информация-о-данных)
 
-[3. Этапы выполнения работы](https://github.com/an-petruhin/Homeworks/tree/master/EDA_4#Этапы-выполнения-работы)
+[3. Этапы выполнения работы](https://github.com/an-petruhin/Homeworks/tree/main/Homework_EDA_4#Этапы-выполнения-работы)
 
-[4. Выводы](https://github.com/an-petruhin/Homeworks/tree/master/EDA_4#Выводы)
+[4. Выводы](https://github.com/an-petruhin/Homeworks/tree/main/Homework_EDA_4#Выводы)
 
 ## Цель работы
 
 Цель работы - провести исследование на основе данных о зарплатах в сфере Data Science за 2020-2022 годы и сделать некоторые выводы. В ходе выполнения работы применить на практике изученные статистические тесты.
 
-:arrow_up:[к оглавлению](https://github.com/an-petruhin/Homeworks/tree/master/EDA_4#Оглавление)
+:arrow_up:[К оглавлению](https://github.com/an-petruhin/Homeworks/tree/main/Homework_EDA_4#Оглавление)
 
 ## Краткая информация о данных
 
@@ -45,7 +45,7 @@
     - *M* — от 50 до 250 сотрудников (средняя компания);
     - *L* — более 250 сотрудников (крупная компания).
 
-:arrow_up:[к оглавлению](https://github.com/an-petruhin/Homeworks/tree/master/EDA_4#Оглавление)
+:arrow_up:[К оглавлению](https://github.com/an-petruhin/Homeworks/tree/main/Homework_EDA_4#Оглавление)
 
 ## Этапы выполнения работы
 
@@ -57,12 +57,12 @@
 5. Проведение статистических тестов и ответы на поставленные вопросы;
 6. Выводы о проделанной работе.
 
-:arrow_up:[к оглавлению](https://github.com/an-petruhin/Homeworks/tree/master/EDA_4#Оглавление)
+:arrow_up:[К оглавлению](https://github.com/an-petruhin/Homeworks/tree/main/Homework_EDA_4#Оглавление)
 
 ## Выводы
 
 В ходе проведенного исследования получили выводы и ответили на вопросы, применили на практике изученные статистические тесты.
 
-:arrow_up:[к оглавлению](https://github.com/an-petruhin/Homeworks/tree/master/EDA_4#Оглавление)
+:arrow_up:[К оглавлению](https://github.com/an-petruhin/Homeworks/tree/main/Homework_EDA_4#Оглавление)
 
 :arrow_up:[Назад к работам](https://github.com/an-petruhin/Homeworks#Homeworks)
